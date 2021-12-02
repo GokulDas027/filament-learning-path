@@ -8,4 +8,4 @@ Filament is a real-time physically based rendering engine for Android, iOS, Wind
 
 What particularly interests me into filament is to use it as renderer with ArCore for Android apps.
 
-1. [Intro](https://github.com/GokulDas027/i-am-learning-filament/blob/main/1.%20intro.md)
+1. [Basics](https://github.com/GokulDas027/i-am-learning-filament/blob/main/1.%20filament%20basics.md)
