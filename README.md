@@ -1,4 +1,6 @@
 # i-am-learning-filament
+![Filament logo wide](https://user-images.githubusercontent.com/22936485/144701390-51e75065-fa76-48c5-880d-c6487f8af53d.png)
+
 Filament Android Code docs
 
 I'm new to filament, and filament doesn't have much learning resources available, so here i'm documenting everything as i understand, on the go..
