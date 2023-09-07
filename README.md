@@ -1,4 +1,4 @@
-# i-am-learning-filament
+# filament-learning-path
 ![Filament logo wide](https://user-images.githubusercontent.com/22936485/144701390-51e75065-fa76-48c5-880d-c6487f8af53d.png)
 
 Filament Android Code docs
